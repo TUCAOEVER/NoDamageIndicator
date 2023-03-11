@@ -1,0 +1,5 @@
+name: NoDamageIndicator
+version: '${project.version}'
+main: com.promc.nodamageindicator.NoDamageIndicator
+api-version: 1.16
+depend: [ProtocolLib]
